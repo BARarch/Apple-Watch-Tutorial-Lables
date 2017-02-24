@@ -29,6 +29,8 @@ int x = 0;
     [super willActivate];
     
     self.myLabel.text = @"0";
+    
+    
 }
 
 - (void)didDeactivate {
