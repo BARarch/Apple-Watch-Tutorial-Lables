@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Apple Watch Tutorial Watch App.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Apple Watch Tutorial.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>64A7676E1E5FA76800E085EA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>64A767821E5FA8E400E085EA</key>
 		<dict>
 			<key>primary</key>
 			<true/>
